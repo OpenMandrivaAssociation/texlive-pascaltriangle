@@ -1,6 +1,6 @@
 Name:		texlive-pascaltriangle
 Version:	61774
-Release:	1
+Release:	2
 Summary:	Draw beautiful Pascal (Yanghui) triangles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pascaltriangle
