@@ -3,7 +3,7 @@ Version:	61774
 Release:	2
 Summary:	Draw beautiful Pascal (Yanghui) triangles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pascaltriangle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pascaltriangle
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pascaltriangle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pascaltriangle.doc.r%{version}.tar.xz
